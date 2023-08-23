@@ -1,0 +1,1 @@
+print("Primera pregunta: " + input("¿Cual es el nombre del animal que mas te gusta: "))
